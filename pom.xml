@@ -4,6 +4,7 @@
   <groupId>org.apache.slider</groupId>
   <artifactId>slider</artifactId>
   <version>0.0</version>
+  <name>slider</name>
     <packaging>war</packaging>
   <properties>
     <jersey.version>2.13</jersey.version>
