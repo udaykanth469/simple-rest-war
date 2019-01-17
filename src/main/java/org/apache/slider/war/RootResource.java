@@ -20,6 +20,6 @@ public class RootResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String getIt() {
-        return "Practice makes Success";
+        return "You finally deployed War while successfully using Publish over ssh plugin";
     }
 }
