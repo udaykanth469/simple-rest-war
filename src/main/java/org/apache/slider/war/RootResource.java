@@ -20,6 +20,6 @@ public class RootResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String getIt() {
-        return "You finally deployed War while successfully using Publish over ssh plugin and Ansible Server";
+        return "You finally deployed War to Docker Container successfully using Jenkins";
     }
 }
