@@ -20,6 +20,6 @@ public class RootResource {
     @GET
     @Produces(MediaType.TEXT_PLAIN)
     public String getIt() {
-        return "You finally deployed War to Docker Container successfully using Jenkins";
+        return "You finally deployed War to Docker Container successfully using Jenkins and anisble";
     }
 }
